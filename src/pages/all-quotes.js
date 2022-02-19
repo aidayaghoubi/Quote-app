@@ -7,7 +7,7 @@ const DUMMY_QUOTES =[
     {id:'q2',author:'sara' , text:'Learning nothing is fun !'} , 
     {id:'q3',author:'ali' , text:'Learning javaScript is fun !'} , 
     {id:'q4',author:'negar' , text:'Learning c# is fun !'} , 
-]
+];
 
 const AllQuotes = () => {
    
